@@ -3,15 +3,16 @@
 
 ///Edit Under This only
 
-var firebaseConfig = {
-  apiKey: "api-key",
-  authDomain: "project-id.firebaseapp.com",
-  databaseURL: "https://project-id.firebaseio.com",
-  projectId: "project-id",
-  storageBucket: "project-id.appspot.com",
-  messagingSenderId: "sender-id",
-  appId: "app-id",
-  measurementId: "G-measurement-id",
+var firebaseConfig = const firebaseConfig = {
+  apiKey: "AIzaSyBT9gSzO9aiIuxPEmaFMtmY8P7wejCHSyI",
+  authDomain: "instalogin-42786.firebaseapp.com",
+  databaseURL: "https://instalogin-42786.firebaseio.com",
+  projectId: "instalogin-42786",
+  storageBucket: "instalogin-42786.appspot.com",
+  messagingSenderId: "759576667084",
+  appId: "1:759576667084:web:dd18d642bb027ade553369",
+  MeasurementId : "G-SXC2XVPK6T"
+
 };
 
      
